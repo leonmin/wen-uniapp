@@ -1,0 +1,49 @@
+/* 颜色变量 */
+$default: #45c398;
+$green: #44c397;
+$red: #dd524d;
+$yellow: #fe9400;
+$blue: #0179fe;
+
+/* 行为相关颜色 */
+$primary: $default;
+$success: $green;
+$warning: $yellow;
+$error: $red;
+$info: $blue;
+
+/* 文字基本颜色 */
+$black:#333;
+$white:#fff;
+$gray: #666;
+$grey: #999;
+$split: #ccc;
+$silver: #ccc;
+$disable: #c0c0c0;
+// $placeholder: #808080;
+$placeholder: #808080;
+
+/* 背景颜色 */
+$bg:#f0f0f0;
+$mask:rgba(0, 0, 0, 0.4);
+
+/* 边框 */
+$border-color:#f0f0f0;
+$border: 2.5rpx solid $border-color;
+
+/* 尺寸变量 */
+
+/* 文字尺寸 */
+$smaller: 18rpx;
+$small: 24rpx;
+$middle: 28rpx;
+$big: 30rpx;
+$large: 32rpx;
+$larger: 36rpx;
+
+/* Border Radius */
+$radius: 4rpx;
+
+/* 间距相关 */
+$padding: 30rpx;
+$margin: 20rpx;

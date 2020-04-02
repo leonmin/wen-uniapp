@@ -1,0 +1,22 @@
+view,
+div,
+img,
+image,
+text,
+a,
+input,
+textarea,
+button {
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+  // font-size: 28rpx;
+  // color: #333;
+}
+
+button {
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+}

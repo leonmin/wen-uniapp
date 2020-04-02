@@ -38,11 +38,15 @@
     "@dcloudio/uni-stat": "^2.0.0-26820200330001",
     "core-js": "^3.6.4",
     "flyio": "^0.6.2",
+    "node-sass": "^4.13.1",
     "regenerator-runtime": "^0.12.1",
+    "sass-loader": "^8.0.2",
+    "tslint-config-standard": "^9.0.0",
     "vue": "^2.6.11",
     "vue-class-component": "^6.3.2",
     "vue-property-decorator": "^8.0.0",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "vuex-class": "^0.3.2"
   },
   "devDependencies": {
     "@babel/plugin-syntax-typescript": "^7.2.0",
